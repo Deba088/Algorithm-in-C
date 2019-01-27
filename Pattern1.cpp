@@ -1,12 +1,13 @@
 //This code takes a integer value and output a pattern
 /*  Input:4
-    Output:   	4 4 4 4 4 4 4
-    			4 3 3 3 3 3 4
-    			4 3 2 2 2 3 4
-    			4 3 2 1 2 3 4
-    			4 3 2 2 2 3 4
-    			4 3 3 3 3 3 4
-    			4 4 4 4 4 4 4
+    Output:   	
+    4 4 4 4 4 4 4
+    4 3 3 3 3 3 4
+    4 3 2 2 2 3 4
+    4 3 2 1 2 3 4
+    4 3 2 2 2 3 4
+    4 3 3 3 3 3 4
+    4 4 4 4 4 4 4
 */
 
 #include <stdio.h>
