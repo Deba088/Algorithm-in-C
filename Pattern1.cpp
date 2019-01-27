@@ -1,4 +1,4 @@
-//This code takes a integer value and output a pattern
+//This code takes an integer value and output a pattern
 /*  Input:4
     Output:   	
     4 4 4 4 4 4 4
